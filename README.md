@@ -1,8 +1,4 @@
-# Probabilidad y Estadística (Computación) — Primer cuatrimestre de 2013
-
-## Equipo docente
-
-- **Clases teóricas:** Pablo Ferrari
+# Probabilidades y Estadística C — Primer cuatrimestre de 2013
 
 ## Prácticas
 
